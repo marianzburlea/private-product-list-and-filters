@@ -1,6 +1,7 @@
-# Todo List 2020
+# product list and filters 2020
 
 This repo is built by Marian Zburlea
+There are no filters implemented as I've looked through the data an I couldn't find a connection between the info in the product and the facets/catergories.
 
 ## about the project
 
